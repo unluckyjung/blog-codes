@@ -14,3 +14,4 @@
 ## Java
 
 ## Spring, JPA
+- [(JPA) @NotNull vs Column nullable=false](https://unluckyjung.github.io/jpa/2022/01/17/JPA-Notnull-Column/)

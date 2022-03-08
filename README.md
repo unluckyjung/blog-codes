@@ -13,6 +13,7 @@
 
 ## Java
 - [Java final이 붙은 값을 reflection 을 통해 변경해보기](https://unluckyjung.github.io/java/2022/02/04/java-reflection-change-final-value/)
+- [Optional orElse vs orElseGet](https://unluckyjung.github.io/java/2022/03/09/java-optional-orElse/)
 
 ## Spring, JPA
 - [(JPA) @NotNull vs Column nullable=false](https://unluckyjung.github.io/jpa/2022/01/17/JPA-Notnull-Column/)

@@ -9,7 +9,11 @@ import static org.assertj.core.api.Assertions.assertThat;
 class FinalChangeTest {
     @Test
     void test() {
-        UserName userName = new UserName("jys");
+
+        // 초기 userName의 value값을 런타임에 "jys" 로 설정
+         UserName userName = new UserName("jys");
+
+        // UserName userName = new UserName();
 
         try {
             Class clazz = UserName.class;
@@ -37,3 +41,14 @@ class UserName {
         return value;
     }
 }
+
+//class UserName {
+//
+//    // 인스턴스 변수를 미리 "jys"로 설정
+//    private final String value = "jys";
+//
+//    public String getValue() {
+//        return value;
+//    }
+//}
+

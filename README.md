@@ -17,3 +17,4 @@
 
 ## Spring, JPA
 - [(JPA) @NotNull vs Column nullable=false](https://unluckyjung.github.io/jpa/2022/01/17/JPA-Notnull-Column/)
+- [CommandLineRunner를 이용해 스프링 초기 구동시 특정코드 실행하기](https://unluckyjung.github.io/spring/2022/03/16/Spring-Load-RunCode/)

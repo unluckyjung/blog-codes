@@ -1,6 +1,9 @@
 # blog-codes
 블로그에서 제공하는 코드들을 저장하는 저장소.
 
+> `22.06.05 기준` 블로그글 작성때마다 전체 프로젝트를 매번 클론해서 옮기자니, 생각보다 공수가 너무 많이 들어 일단 제대로 관리되고 있지 못합니다. 
+> 현재 주 언어로 사용중인 코틀린은 [learning repo](https://github.com/unluckyjung/kotlin-learning) 와 [play ground repo](https://github.com/unluckyjung/kotlin-spring-jpa-playground) 로 코드 제공을 고려중입니다.
+
 <br>
 <br>
 
